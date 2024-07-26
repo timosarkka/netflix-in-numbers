@@ -14,11 +14,8 @@ This project includes various visualizations to help understand the Netflix data
 
 ### Screenshots
 
-Overview, genres
 ![image](https://github.com/user-attachments/assets/86f5cda5-b1d2-4156-aa12-549286723826)
 
-Best titles by score
 ![image](https://github.com/user-attachments/assets/278a93a5-d8f2-483f-98cd-1cd71e40fdaa)
 
-Ratings by content length
 ![image](https://github.com/user-attachments/assets/5b042cec-ea9a-4b23-b1d2-1c6e69a66692)
