@@ -4,7 +4,10 @@
 This project involves exploring and analyzing Netflix data using Power BI. The goal is to gain insights into the content available on Netflix, including trends in genres, IMDB/TMDB scores, countries releasing most content and more. Visualizations and reports are created to provide a comprehensive understanding of the dataset.
 
 ### Overview
-This project includes various visualizations to help understand the Netflix dataset. Key features include:
+This project includes various visualizations to help understand the series and movies titles that are offered by Netflix to viewers.
+
+Some of the metrics presented:
+
 - Genres overview
 - Best titles by score
 - Ratings by runtime
