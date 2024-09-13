@@ -1,4 +1,4 @@
-# Netflix in Numbers
+# What’s Streaming? Breaking Down Netflix’s Content by Genre, Country, and Ratings
 
 ### Description
 This project involves exploring and analyzing Netflix data using Power BI. The goal is to gain insights into the content available on Netflix, including trends in genres, IMDB/TMDB scores, countries releasing most content and more. Visualizations and reports are created to provide a comprehensive understanding of the dataset.
